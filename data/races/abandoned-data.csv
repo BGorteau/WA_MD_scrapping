@@ -1,0 +1,422 @@
+COMP_TYPE,COMP_LOC,YEAR,RACE_DATE,RACE_TEMP,RACE_HUMID,M_W,EVENT,STAGE,RACE_NB,ATHLETE_NAME,ATHLETE_COUNTRY,ATHLETE_AGE,REASON
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Lamecha GIRMA,ETH,23.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,George BEAMISH,NZL,27.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Leonard Kipkemoi BETT,KEN,23.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Ryuji MIURA,JPN,21.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Simon SUNDSTRÖM,SWE,26.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Víctor RUIZ,ESP,30.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Djilali BEDRANI,FRA,30.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Karl BEBENDORF,GER,27.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Mohammed MSAAD,MAR,19.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Ala ZOGHLAMI,ITA,29.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Isaac UPDIKE,USA,31.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Fouad IDBAFDIL,ART,36.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Julián MOLINA,ARG,30.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,26,65,women,1500-metres,heats,1.0,Nathalie BLOMQVIST,FIN,22.0,Incoherent splits
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Nelly CHEPCHIRCHIR,KEN,20.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Sinclaire JOHNSON,USA,25.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Birke HAYLOM,ETH,18.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Katie SNOWDEN,GBR,29.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Marta PÉREZ,ESP,30.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Linden HALL,AUS,32.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Sintayehu VISSA,ITA,27.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Sophie O'SULLIVAN,IRL,22.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Kristiina MÄKI,CZE,32.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Simone PLOURDE,CAN,23.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Eliza MEGGER,POL,24.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Yume GOTO,JPN,23.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Thi Oanh NGUYEN,VIE,28.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,56,women,1500-metres,heats,3.0,Joceline WIND,SUI,23.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Hirut MESHESHA,ETH,23.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Jessica HULL,AUS,27.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Ciara MAGEEAN,IRL,31.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Cory Ann MCGEE,USA,31.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Adelle TRACEY,JAM,30.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Ludovica CAVALLI,ITA,23.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Purity CHEPKIRUI,KEN,21.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Águeda MARQUÉS,ESP,24.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Kate CURRENT,CAN,26.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Marta PEN FREITAS,POR,30.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Amalie SÆTEN,NOR,26.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Winnie NANYONDO,UGA,30.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Fedra Aldana LUNA SAMBRAN,ARG,28.0,Missing time split
+outdoor,Budapest (HUN),2023,19 August 2023,30,52,women,1500-metres,heats,4.0,Gresa BAKRAÇI,KOS,28.0,Did not finish
+outdoor,Budapest (HUN),2023,19 August 2023,28,60,men,1500-metres,heats,1.0,Tom ELMER,SUI,26.0,Incoherent splits
+outdoor,Budapest (HUN),2023,19 August 2023,28,60,men,1500-metres,heats,1.0,Emil DANIELSSON,SWE,26.0,Incoherent splits
+outdoor,Budapest (HUN),2023,19 August 2023,28,60,men,1500-metres,heats,4.0,Anass ESSAYI,MAR,22.0,Incoherent splits
+outdoor,Budapest (HUN),2023,19 August 2023,26,73,women,10000-metres,final,1.0,Sifan HASSAN,NED,31.0,Incoherent splits
+outdoor,Budapest (HUN),2023,19 August 2023,26,73,women,10000-metres,final,1.0,Caroline Chepkoech KIPKIRUI,KAZ,29.0,Did not finish
+outdoor,Budapest (HUN),2023,20 August 2023,33,46,women,1500-metres,semi-final,1.0,Hirut MESHESHA,ETH,23.0,Missing time split
+outdoor,Budapest (HUN),2023,20 August 2023,33,46,women,1500-metres,semi-final,2.0,Gaia SABBATINI,ITA,24.0,Did not finish
+outdoor,Budapest (HUN),2023,20 August 2023,32,49,men,10000-metres,final,1.0,Joel AYEKO,UGA,31.0,Did not finish
+outdoor,Budapest (HUN),2023,20 August 2023,32,49,men,10000-metres,final,1.0,Carlos Martín DÍAZ DEL,CHI,30.0,Did not finish
+outdoor,Budapest (HUN),2023,20 August 2023,32,49,men,10000-metres,final,1.0,Yismaw DILLU,ETH,18.0,Did not finish
+outdoor,Budapest (HUN),2023,22 August 2023,35,37,men,800-metres,heats,1.0,Navasky ANDERSON,JAM,24.0,Disqualification
+outdoor,Budapest (HUN),2023,22 August 2023,28,55,men,3000-metres-steeplechase,final,1.0,Kenneth ROOKS,USA,24.0,Incoherent splits
+outdoor,Budapest (HUN),2023,22 August 2023,28,55,men,3000-metres-steeplechase,final,1.0,Leonard CHEMUTAI,UGA,20.0,Missing time split
+outdoor,Budapest (HUN),2023,22 August 2023,28,55,men,3000-metres-steeplechase,final,1.0,Mohamed Amin JHINAOUI,TUN,26.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Keely HODGKINSON,GBR,21.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Prudence SEKGODISO,RSA,22.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Eveliina MÄÄTTÄNEN,FIN,28.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Vivian Chebet KIPROTICH,KEN,28.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Elena BELLÒ,ITA,27.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Angelika SARNA,POL,26.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Lorea IBARZABAL,ESP,29.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,1.0,Perina Lokure NAKANG,ART,21.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Mary MORAA,KEN,23.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Raevyn ROGERS,USA,27.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Worknesh MESELE,ETH,22.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Jazz SHUKLA,CAN,25.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Eloisa COIRO,ITA,23.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Gabriela GAJANOVÁ,SVK,24.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Daniela GARCÍA,ESP,22.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,30,56,women,800-metres,heats,2.0,Margarita KOCZANOWA,POL,25.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Noélie YARIGO,BEN,38.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Christina HERING,GER,29.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Abbey CALDWELL,AUS,22.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Gabija GALVYDYT Ė,LTU,24.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Léna KANDISSOUNON,FRA,25.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Audrey WERRO,SUI,19.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Naomi KORIR,KEN,25.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,3.0,Madeleine KELLY,CAN,28.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Halimah NAKAAYI,UGA,29.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Adelle TRACEY,JAM,30.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Rénelle LAMOTE,FRA,30.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Claudia Mihaela BOBOCEA,ROU,31.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Louise SHANAHAN,IRL,27.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Tigist GIRMA,ETH,21.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Oratile NOWE,BOT,23.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,4.0,Kaela EDWARDS,USA,30.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Nia AKINS,USA,25.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Jemma REEKIE,GBR,25.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Anita HORVAT,SLO,27.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Bianka KÉRI,HUN,29.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Rachel PELLAUD,SUI,28.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Olha LYAKHOVA,UKR,31.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Ellie SANFORD,AUS,26.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,54,women,800-metres,heats,5.0,Patricia SILVA,POR,24.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Habitam ALEMU,ETH,26.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Catriona BISSET,AUS,29.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Flavia Maria DE LIMA,BRA,30.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Hedda HYNNE,NOR,33.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Lorena MARTÍN,ESP,27.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Rose Mary ALMANZA,CUB,31.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Majtie KOLBERG,GER,24.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,6.0,Agnès RAHAROLAHY,FRA,31.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Athing MU,USA,21.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Natoya GOULE-TOPPIN,JAM,32.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Lore HOFFMANN,SUI,27.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Annemarie NISSEN,DEN,29.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Assia RAZIKI,MAR,27.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Isabelle BOFFEY,GBR,23.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Natal KROL,UKR,29.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,32,54,women,800-metres,heats,7.0,Anna WIELGOSZ,POL,30.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,53,women,5000-metres,heats,1.0,Beatrice CHEBET,KEN,23.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,31,53,women,5000-metres,heats,1.0,Sarah CHELANGAT,UGA,22.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,31,53,women,5000-metres,heats,1.0,Lauren RYAN,AUS,25.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,31,53,women,5000-metres,heats,1.0,Briana SCOTT,CAN,33.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,31,53,women,5000-metres,heats,2.0,Ejgayehu TAYE,ETH,24.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,31,53,women,5000-metres,heats,2.0,Amy-Eloise MARKOVC,GBR,28.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,29,57,women,3000-metres-steeplechase,heats,2.0,Peruth CHEMUTAI,UGA,24.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,29,56,women,3000-metres-steeplechase,heats,3.0,Alice FINOT,FRA,33.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,29,56,women,3000-metres-steeplechase,heats,3.0,Kristlin GEAR,USA,24.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,29,56,women,3000-metres-steeplechase,heats,3.0,Tatiane Raquel DA SILVA,BRA,33.0,Missing time split
+outdoor,Budapest (HUN),2023,23 August 2023,27,60,men,1500-metres,final,1.0,Jakob INGEBRIGTSEN,NOR,23.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,27,60,men,1500-metres,final,1.0,Abel KIPSANG,KEN,27.0,Incoherent splits
+outdoor,Budapest (HUN),2023,23 August 2023,27,60,men,1500-metres,final,1.0,Reynold Kipkorir CHERUIYOT,KEN,19.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Mohamed KATIR,ESP,26.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Hagos GEBRHIWET,ETH,29.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Jakob INGEBRIGTSEN,NOR,23.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Ouassim OUMAIZ,ESP,24.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Abdihamid NUR,USA,26.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Brian FAY,IRL,25.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Cornelius KEMBOI,KEN,23.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Kazuya SHIOJIRI,JPN,27.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Valentin SOCA,URU,21.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,1.0,Joshua CHEPTEGEI,UGA,27.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Yomif KEJELCHA,ETH,26.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Oscar CHELIMO,UGA,22.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Ishmael Rokitto KIPKURUI,KEN,19.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Jacob KROP,KEN,22.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Rodrigue KWIZERA,BDI,24.0,Incoherent splits
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Morgan MCDONALD,AUS,27.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Ferenc Soma KOVÁCS,HUN,19.0,Missing time split
+outdoor,Budapest (HUN),2023,24 August 2023,31,39,men,5000-metres,heats,2.0,Mohamed HREZI,LBA,32.0,Incoherent splits
+outdoor,Budapest (HUN),2023,26 August 2023,32,46,men,800-metres,final,1.0,Djamel SEDJATI L,ALG,24.0,Disqualification
+outdoor,Budapest (HUN),2023,27 August 2023,31,44,men,5000-metres,final,1.0,Hagos GEBRHIWET,ETH,29.0,Missing time split
+outdoor,Budapest (HUN),2023,27 August 2023,31,44,men,5000-metres,final,1.0,Mohamed ISMAIL,DJI,27.0,Missing time split
+outdoor,Budapest (HUN),2023,27 August 2023,31,44,men,5000-metres,final,1.0,Oscar CHELIMO,UGA,22.0,Did not finish
+outdoor,Budapest (HUN),2023,27 August 2023,29,49,women,3000-metres-steeplechase,final,1.0,Zerfe WONDEMAGEGN,ETH,21.0,Incoherent splits
+outdoor,Budapest (HUN),2023,27 August 2023,29,49,women,3000-metres-steeplechase,final,1.0,Jackline CHEPKOECH,KEN,20.0,Incoherent splits
+outdoor,Budapest (HUN),2023,27 August 2023,29,49,women,3000-metres-steeplechase,final,1.0,Parul CHAUDHARY,IND,28.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,35,men,3000-metres-steeplechase,heats,1.0,Tim VAN DE VELDE,BEL,22.0,Incoherent splits
+outdoor,Oregon (USA),2022,15 July 2022,28,35,men,3000-metres-steeplechase,heats,3.0,Jean-Simon DESGAGNÉS,CAN,24.0,Incoherent splits
+outdoor,Oregon (USA),2022,15 July 2022,28,35,men,3000-metres-steeplechase,heats,3.0,Mohamed TINDOUFT,MAR,29.0,Did not finish
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Hirut MESHESHA,ETH,21.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Laura MUIR,GBR,29.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Georgia GRIFFITH,AUS,26.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Sinclaire JOHNSON,USA,24.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Gaia SABBATINI,ITA,23.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Kristiina MÄKI,CZE,31.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Marta PEN FREITAS,POR,29.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Yolanda NGARAMBE,SWE,31.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Judith KIYENG,KEN,29.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Lucia STAFFORD,CAN,24.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Elise VANDERELST,BEL,24.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Sarah HEALY,IRL,21.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Şilan AYYILDIZ,TUR,23.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,1.0,Ran URABE,JPN,27.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Faith KIPYEGON,KEN,29.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Jessica HULL,AUS,26.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Freweyni HAILU,ETH,21.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Elle ST. PIERRE,USA,27.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Hanna KLEIN,GER,29.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Adelle TRACEY,JAM,29.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Nozomi TANAKA,JPN,23.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Marta PÉREZ,ESP,29.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Hanna HERMANSSON,SWE,33.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Katie SNOWDEN,GBR,28.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Laura GALVÁN,MEX,31.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Sintayehu VISSA,ITA,26.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Natalia HAWTHORN,CAN,28.0,Missing time split
+outdoor,Oregon (USA),2022,15 July 2022,28,41,women,1500-metres,heats,2.0,Anjelina Nadai LOHALITH,ART,28.0,Missing time split
+outdoor,Oregon (USA),2022,16 July 2022,18,83,women,3000-metres-steeplechase,heats,1.0,Lea MEYER,GER,25.0,Missing time split
+outdoor,Oregon (USA),2022,16 July 2022,18,83,women,3000-metres-steeplechase,heats,1.0,Regan YEE,CAN,27.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,18,83,women,3000-metres-steeplechase,heats,1.0,Brielle ERBACHER,AUS,23.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,18,83,women,3000-metres-steeplechase,heats,1.0,Yuno YAMANAKA,JPN,22.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,2.0,Amy CASHIN,AUS,28.0,Missing time split
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,2.0,Purity KIRUI,KEN,31.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,2.0,Parul CHAUDHARY,IND,27.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,3.0,Maruša MIŠMAŠ ZRIMŠEK,SLO,28.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,3.0,Winfred Mutile YAVI,BRN,23.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,3.0,Courtney FRERICHS,USA,29.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,3.0,Cara FEAIN-RYAN,AUS,23.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,3.0,Adva COHEN,ISR,26.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,3.0,Kinga KRÓLIK,POL,23.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,19,81,women,3000-metres-steeplechase,heats,3.0,Reimi YOSHIMURA,JPN,22.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Eilish MCCOLGAN,GBR,32.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Jessica JUDD,GBR,28.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Alicia MONSON,USA,24.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Stella CHESANG,UGA,26.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Natosha ROGERS,USA,31.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Mercyline CHELANGAT,UGA,25.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Dominique SCOTT,RSA,30.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Dolshi TESFU,ERI,23.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Rino GOSHIMA,JPN,25.0,Incoherent splits
+outdoor,Oregon (USA),2022,16 July 2022,20,76,women,10000-metres,final,1.0,Sheila Chepkirui KIPROTICH,KEN,32.0,Missing time split
+outdoor,Oregon (USA),2022,16 July 2022,23,66,men,1500-metres,heats,2.0,Thiago ANDRÉ,BRA,27.0,Missing time split
+outdoor,Oregon (USA),2022,16 July 2022,23,66,women,1500-metres,semi-final,2.0,Winnie NANYONDO,UGA,29.0,Did not finish
+outdoor,Oregon (USA),2022,16 July 2022,23,66,women,1500-metres,semi-final,2.0,Gaia SABBATINI,ITA,23.0,Disqualification
+outdoor,Oregon (USA),2022,20 July 2022,33,35,women,5000-metres,heats,1.0,Emily INFELD,USA,32.0,Missing time split
+outdoor,Oregon (USA),2022,20 July 2022,33,35,women,5000-metres,heats,1.0,Sarah LAHTI,SWE,27.0,Missing time split
+outdoor,Oregon (USA),2022,20 July 2022,33,35,women,5000-metres,heats,1.0,Natalie RULE,AUS,26.0,Did not finish
+outdoor,Oregon (USA),2022,20 July 2022,33,35,women,5000-metres,heats,1.0,Camilla RICHARDSSON,FIN,29.0,Did not finish
+outdoor,Oregon (USA),2022,20 July 2022,33,34,men,800-metres,heats,1.0,Max BURGIN,GBR,20.0,Missing time split
+outdoor,Oregon (USA),2022,20 July 2022,33,34,men,800-metres,heats,2.0,Alex AMANKWA,GHA,30.0,Disqualification
+outdoor,Oregon (USA),2022,20 July 2022,32,35,men,800-metres,heats,5.0,Jonah KOECH,USA,26.0,Disqualification
+outdoor,Oregon (USA),2022,21 July 2022,28,51,women,800-metres,heats,2.0,Catriona BISSET,AUS,28.0,Incoherent splits
+outdoor,Oregon (USA),2022,21 July 2022,28,51,men,5000-metres,heats,1.0,Joshua CHEPTEGEI,UGA,26.0,Incoherent splits
+outdoor,Oregon (USA),2022,21 July 2022,28,51,men,5000-metres,heats,1.0,Soufiyan BOUQANTAR,MAR,29.0,Missing time split
+outdoor,Oregon (USA),2022,21 July 2022,28,51,men,5000-metres,heats,1.0,Altobeli SILVA,BRA,32.0,Incoherent splits
+outdoor,Oregon (USA),2022,21 July 2022,28,51,men,5000-metres,heats,1.0,Adriaan WILDSCHUTT,RSA,24.0,Missing time split
+outdoor,Oregon (USA),2022,21 July 2022,28,51,men,5000-metres,heats,2.0,Ali Hissein MAHAMAT,CHA,23.0,Missing time split
+outdoor,Oregon (USA),2022,21 July 2022,28,51,men,800-metres,semi-final,1.0,Tolesa BODENA,ETH,22.0,Missing time split
+outdoor,Oregon (USA),2022,23 July 2022,25,43,women,5000-metres,final,1.0,Dawit SEYAUM,ETH,26.0,Missing time split
+outdoor,Oregon (USA),2022,23 July 2022,25,43,women,5000-metres,final,1.0,Karissa SCHWEIZER,USA,26.0,Did not finish
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,1.0,Ajee WILSON,USA,25.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,1.0,Halimah NAKAAYI,UGA,25.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,1.0,Hedda HYNNE,NOR,30.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,1.0,Christina HERING,GER,25.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,1.0,Sara KUIVISTO,FIN,28.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,1.0,Renée EYKENS,BEL,23.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,1.0,Gabriela GAJANOVÁ,SVK,20.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,2.0,Raevyn ROGERS,USA,23.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,2.0,Shelayna OSKAN-CLARKE,GBR,30.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,2.0,Morgan MITCHELL,AUS,25.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,2.0,Eunice Jepkoech SUM,KEN,31.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,2.0,Anna SABAT,POL,26.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,2.0,Selina BÜCHEL,SUI,28.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,2.0,Lokonyen Rose NATHIKE,ART,27.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,3.0,Winnie NANYONDO,UGA,26.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,3.0,Katharina TROST,GER,24.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,3.0,Halima HACHLAF,MAR,31.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,3.0,Lindsey BUTTERWORTH,CAN,27.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,3.0,Līga VELVERE,LAT,30.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,3.0,Catriona BISSET,AUS,26.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,4.0,Natoya GOULE,JAM,28.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,4.0,Ce'Aira BROWN,USA,26.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,4.0,Noélie YARIGO,BEN,34.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,4.0,Olha LYAKHOVA,UKR,28.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,4.0,Diribe WELTEJI,ETH,17.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,4.0,Diana MEZULIÁNÍKOVÁ,CZE,27.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,4.0,Déborah RODRÍGUEZ,URU,27.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,5.0,Natal PRISHCHEPA,UKR,25.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,5.0,Chunyu WANG,CHN,25.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,5.0,Alexandra BELL,GBR,27.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,5.0,Lore HOFFMANN,SUI,23.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,5.0,Malika AKKAOUI,MAR,32.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,5.0,Lovisa LINDH,SWE,28.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,5.0,Hanna GREEN,USA,25.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,6.0,Renelle LAMOTE,FRA,26.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,6.0,Rose Mary ALMANZA,CUB,27.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,6.0,Rababe ARAFI,MAR,29.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,6.0,Lynsey SHARP,GBR,29.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,6.0,Carley THOMAS,AUS,19.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,6.0,Eleonora VANDI,ITA,24.0,Missing time split
+outdoor,Doha (QAT),2019,27 September 2019,25,67,women,800-metres,heats,6.0,Tsepang SELLO,LES,23.0,Disqualification
+outdoor,Doha (QAT),2019,27 September 2019,25,67,men,5000-metres,heats,2.0,Gerald Nicolas GIRALDO,COL,31.0,Did not finish
+outdoor,Doha (QAT),2019,27 September 2019,25,67,men,5000-metres,heats,2.0,Viro MA,CAM,32.0,Did not finish
+outdoor,Doha (QAT),2019,27 September 2019,25,67,men,5000-metres,heats,2.0,Said EL,ITA,28.0,Did not finish
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Donavan BRAZIER,USA,22.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Marco AROP,CAN,21.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Tshepo TSHITE,RSA,23.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Andreas KRAMER,SWE,22.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Lucirio GARRIDO,VEN,27.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Mariano GARCÍA,ESP,22.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Luke MATHEWS,AUS,24.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,1.0,Min Min ZAW,MYA,18.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,2.0,1Ngeno KIPNGETICH,KEN,19.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,2.0,2Adrián BEN,ESP,21.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,2.0,3Jamie WEBB,GBR,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,2.0,4Brannon KIDDER,USA,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,2.0,5Jamal HAIRANE,QAT,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,2.0,6Marc REUTHER,GER,23.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,2.0,Nijel AMOS,BOT,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Brandon MCBRIDE,CAN,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Abubaker Haydar ABDALLA,QAT,23.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Pierre-Ambroise BOSSE,FRA,27.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Mouad ZAHAFI,MAR,21.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Peter BOL,AUS,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Pol MOYA,AND,23.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Ryan SÁNCHEZ,PUR,21.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,3.0,Roberto BELO AMARAL SOARES,TLS,17.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,4.0,Ferguson Cheruiyot ROTICH,KEN,30.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,4.0,Bryce HOPPEL,USA,22.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,4.0,Abdessalem AYOUNI,TUN,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,4.0,Oussama NABIL,MAR,24.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,4.0,Adam KSZCZOT,POL,30.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,4.0,Mohamed BELBACHIR,ALG,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,4.0,Mark ENGLISH,IRL,27.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Emmanuel Kipkurui KORIR,KEN,24.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Mostafa SMAILI,MAR,23.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Wesley VÁZQUEZ,PUR,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Yassine HETHAT,ALG,28.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Kyle LANGFORD,GBR,24.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Quamel PRINCE,GUY,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Mohammed AL-SULEIMANI,OMA,18.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,5.0,Benjamín ENZEMA,GEQ,31.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Elliot GILES,GBR,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Clayton MURPHY,USA,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Amel TUKA,BIH,29.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Álvaro DE ARRIBA,ESP,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Andrés ARROYO,PUR,24.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Edose IBADIN,NGR,27.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Musa HAJDARI,KOS,32.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,men,800-metres,heats,6.0,Samer Ali Saleh AL JOHAR,JOR,18.0,Disqualification
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Raevyn ROGERS,USA,23.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Winnie NANYONDO,UGA,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Olha LYAKHOVA,UKR,28.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Lindsey BUTTERWORTH,CAN,27.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Alexandra BELL,GBR,27.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Halima HACHLAF,MAR,31.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Katharina TROST,GER,24.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,74,women,800-metres,semi-final,1.0,Līga VELVERE,LAT,30.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Ajee WILSON,USA,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Rababe ARAFI,MAR,29.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Hedda HYNNE,NOR,30.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Rose Mary ALMANZA,CUB,27.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Natal PRISHCHEPA,UKR,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Diribe WELTEJI,ETH,17.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Chunyu WANG,CHN,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,2.0,Shelayna OSKAN-CLARKE,GBR,30.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Halimah NAKAAYI,UGA,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Eunice Jepkoech SUM,KEN,31.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Ce'Aira BROWN,USA,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Natoya GOULE,JAM,28.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Noélie YARIGO,BEN,34.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Renelle LAMOTE,FRA,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Anna SABAT,POL,26.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,800-metres,semi-final,3.0,Morgan MITCHELL,AUS,25.0,Missing time split
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,10000-metres,final,1.0,Alina REH,GER,22.0,Did not finish
+outdoor,Doha (QAT),2019,28 September 2019,25,67,women,10000-metres,final,1.0,Netsanet GUDETA,ETH,29.0,Did not finish
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Wesley VÁZQUEZ,PUR,26.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Ferguson Cheruiyot ROTICH,KEN,30.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Clayton MURPHY,USA,25.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Adrián BEN,ESP,21.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Elliot GILES,GBR,25.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Adam KSZCZOT,POL,30.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Abdessalem AYOUNI,TUN,25.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,1.0,Abubaker Haydar ABDALLA,QAT,23.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Donavan BRAZIER,USA,22.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Marco AROP,CAN,21.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Emmanuel Kipkurui KORIR,KEN,24.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Brannon KIDDER,USA,26.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Mostafa SMAILI,MAR,23.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Tshepo TSHITE,RSA,23.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Yassine HETHAT,ALG,28.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,2.0,Jamie WEBB,GBR,25.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Amel TUKA,BIH,29.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Bryce HOPPEL,USA,22.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Álvaro DE ARRIBA,ESP,25.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Brandon MCBRIDE,CAN,25.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Kyle LANGFORD,GBR,24.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Ngeno KIPNGETICH,KEN,19.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Pierre-Ambroise BOSSE,FRA,27.0,Missing time split
+outdoor,Doha (QAT),2019,29 September 2019,,71,men,800-metres,semi-final,3.0,Oussama NABIL,MAR,24.0,Disqualification
+outdoor,Doha (QAT),2019,30 September 2019,27,76,men,5000-metres,final,1.0,Filip INGEBRIGTSEN,NOR,26.0,Did not finish
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Halimah NAKAAYI,UGA,25.0,Missing time split
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Raevyn ROGERS,USA,23.0,Missing time split
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Ajee WILSON,USA,25.0,Missing time split
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Winnie NANYONDO,UGA,26.0,Missing time split
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Eunice Jepkoech SUM,KEN,31.0,Missing time split
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Natoya GOULE,JAM,29.0,Missing time split
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Rababe ARAFI,MAR,29.0,Missing time split
+outdoor,Doha (QAT),2019,30 September 2019,27,76,women,800-metres,final,1.0,Ce'Aira BROWN,USA,26.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Donavan BRAZIER,USA,22.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Amel TUKA,BIH,29.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Ferguson Cheruiyot ROTICH,KEN,30.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Bryce HOPPEL,USA,22.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Wesley VÁZQUEZ,PUR,26.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Adrián BEN,ESP,21.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Marco AROP,CAN,21.0,Missing time split
+outdoor,Doha (QAT),2019,1 October 2019,25,53,men,800-metres,final,1.0,Clayton MURPHY,USA,25.0,Missing time split
+outdoor,Doha (QAT),2019,2 October 2019,26,59,women,5000-metres,heats,1.0,Maureen KOSTER,NED,27.0,Did not finish
+outdoor,Doha (QAT),2019,2 October 2019,26,59,women,5000-metres,heats,1.0,Karoline Bjerkeli GRØVDAL,NOR,29.0,Did not finish
+outdoor,Doha (QAT),2019,2 October 2019,26,59,women,5000-metres,heats,2.0,Tigist GASHAW,BRN,23.0,Did not finish
+outdoor,Doha (QAT),2019,3 October 2019,26,61,men,1500-metres,heats,2.0,Rabii DOUKKANA,FRA,32.0,Missing time split
+outdoor,Doha (QAT),2019,3 October 2019,26,61,men,1500-metres,heats,3.0,Brahim KAAZOUZI,MAR,29.0,Missing time split
+outdoor,Doha (QAT),2019,4 October 2019,26,61,men,1500-metres,semi-final,2.0,Samuel TEFERA,ETH,20.0,Did not finish
+outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Aron KIFLE,ERI,22.0,Missing time split
+outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Thierry NDIKUMWENAYO,BDI,23.0,Did not finish
+outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Julien WANDERS,SUI,24.0,Did not finish
+outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Hassan CHANI,BRN,31.0,Did not finish
+indoor,,2025,21 March 2025,,,women,800-metres,heats,1.0,Habitam ALEMU,ETH,28.0,Incoherent splits
+indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Jakub DUDYCHA,CZE,20.0,Missing time split
+indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Alex Ngeno KIPNGETICH,KEN,25.0,Missing time split
+indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Patryk SIERADZKI,POL,26.0,Missing time split
+indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Moad ZAHAFI,MAR,27.0,Missing time split
+indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Guilherme ORENHAS,BRA,27.0,Did not finish
+indoor,,2025,22 March 2025,,,women,3000-metres,final,1.0,Metres Women Final (CHN),(CHN),,Missing time split
+indoor,,2025,22 March 2025,,,men,3000-metres,final,1.0,Metres Men Final (CHN),(CHN),,Missing time split
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,,women,1500-metres,heats,2.0,Claudia Mihaela BOBOCEA,ROU,32.0,Did not finish
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,,men,1500-metres,heats,3.0,Biniam MEHARY,ETH,17.0,Incoherent splits
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,,men,1500-metres,heats,3.0,Eduardo HERRERA,MEX,26.0,Incoherent splits
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,,men,1500-metres,heats,4.0,Callum ELSON,GBR,25.0,Did not finish
+indoor,FinalGlasgow (GBR),2024,2 March 2024,,,men,800-metres,semi-final,2.0,Mohamed Ali GOUANED,ALG,22.0,Did not finish
+indoor,Glasgow (GBR),2024,2 March 2024,,,women,3000-metres,final,1.0,Emeline IMANIZABAYO,RWA,28.0,Missing time split
+indoor,Glasgow (GBR),2024,3 March 2024,,,men,800-metres,final,1.0,Benjamin ROBERT,FRA,26.0,Disqualification
+indoor,Glasgow (GBR),2024,3 March 2024,,,men,1500-metres,final,1.0,Vincent Kibet KETER,KEN,22.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Gudaf TSEGAY,ETH,25.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Lucia STAFFORD,CAN,24.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Sara KUIVISTO,FIN,31.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Heather MACLEAN,USA,27.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Marta PÉREZ,ESP,29.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Nozomi TANAKA,JPN,23.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Amna BAKHIT BARSHAM,SUD,31.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,men,800-metres,heats,2.0,Elliot GILES,GBR,28.0,Missing time split
+indoor,Belgrade (SRB),2022,18 March 2022,,,men,3000-metres,heats,2.0,Ali Moussa BARAK,CHA,24.0,Did not finish
+indoor,Belgrade (SRB),2022,18 March 2022,,,men,3000-metres,heats,3.0,Fernando Daniel MARTÍNEZ,MEX,29.0,Incoherent splits
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,3000-metres,final,1.0,Lauren RYAN,AUS,24.0,Incoherent splits
+indoor,Belgrade (SRB),2022,18 March 2022,,,women,3000-metres,final,1.0,Jhoselyn CAMARGO ALIAGA,BOL,26.0,Incoherent splits
+indoor,Belgrade (SRB),2022,19 March 2022,,,women,800-metres,heats,2.0,Keely HODGKINSON,GBR,20.0,Missing time split
+indoor,Belgrade (SRB),2022,20 March 2022,,,men,3000-metres,final,1.0,Isaac KIMELI,BEL,28.0,Missing time split

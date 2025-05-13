@@ -1,0 +1,13 @@
+beautifulsoup4
+pandas
+PyPDF2
+regex
+requests
+spacy
+matplotlib
+scikit-learn
+numpy
+pycountry
+logging
+warnings
+scipy
