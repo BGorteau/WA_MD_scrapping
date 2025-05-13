@@ -1,6 +1,6 @@
 # Scraping of World Athletics championships middle distance and distance data
 
-This project aims to scrape middle distance and distance running data from World Athletics World Championship competitions. The competitions data are available at these two links ([indoor](https://worldathletics.org/results/world-athletics-indoor-championships) and [outdoor](https://worldathletics.org/results/world-athletics-championships)). The detailed competitions data are then available in result books in PDF format for each race.
+This project aims to scrape middle distance and distance running data from World Athletics championship competitions. The competitions data are available at these two links ([indoor](https://worldathletics.org/results/world-athletics-indoor-championships) and [outdoor](htts://worldathletics.org/results/world-athletics-championships)). The detailed competitions data are then available in result books in PDF format for each race.
 
 For more information about the detailed process, please see the notebook (`notebooks/Scrap_WA_data.ipynb`).
 
