@@ -4,6 +4,8 @@ This project aims to scrape middle distance and distance running data from World
 
 For more information about the detailed process, please see the notebook (`notebooks/Scrap_WA_data.ipynb`).
 
+![Project Architecture](figures/Project_Architecture.png)
+
 # Technical information
 
 To make the database creation process work, here are the steps you need to follow.
