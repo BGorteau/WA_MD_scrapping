@@ -17,7 +17,7 @@ To make the database creation process work, here are the steps you need to follo
 - Run the pipeline:
   `python src/builder.py`
   
-Data is allready available in the `data/races` folder for the following distances:
+Data is already available in the `data/races` folder for the following distances:
 - 800m
 - 1500m
 - 3000m
