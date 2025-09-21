@@ -1,427 +1,61 @@
 COMP_TYPE,COMP_LOC,YEAR,RACE_DATE,RACE_TEMP,RACE_HUMID,M_W,EVENT,STAGE,RACE_NB,ATHLETE_NAME,ATHLETE_COUNTRY,ATHLETE_AGE,REASON
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Edmund SEREM,KEN,18.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Getnet WALE,ETH,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Ryuji MIURA,JPN,24.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Nicolas-Marie DARU,FRA,37.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Ahmed JAZIRI,TUN,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Karl BEBENDORF,GER,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Ala ZOGHLAMI,ITA,31.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Isaac UPDIKE,USA,33.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Mohamed TINDOUFT,MAR,33.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Alejandro QUIJADA,ESP,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Faid EL MOSTAFA,MAR,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,1.0,Edward TRIPPAS,AUS,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Salaheddine BEN,MAR,22.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Geordie BEAMISH,NZL,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Samuel FIREWU,ETH,21.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Frederik RUPPERT,GER,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Abraham KIBIWOT,KEN,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Mohamed Amin JHINAOUI,TUN,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Louis GILAVERT,FRA,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Leo MAGNUSSON,SWE,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Leonard CHEMUTAI,UGA,22.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Jean-Simon DESGAGNÉS,CAN,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Kenneth ROOKS,USA,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,2.0,Nahuel CARABAÑA,AND,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Soufiane EL BAKKALI,MAR,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Lamecha GIRMA,ETH,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Daniel MICHALSKI,USA,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Ruben QUERINJEAN,LUX,24.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Niklas BUCHHOLZ,GER,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Vidar JOHANSSON,SWE,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Simon Kiprop KOECH,KEN,22.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Djilali BEDRANI,FRA,32.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Etson BARROS,POR,24.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Carlos SAN MARTÍN,COL,32.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Tim VAN DE VELDE,BEL,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,men,3000-metres-steeplechase,heats,3.0,Daniel ARCE,ESP,33.0,Did not finish
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Jessica HULL,AUS,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Sinclaire JOHNSON,USA,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Gaia SABBATINI,ITA,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Dorcus EWOI,KEN,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Marta PÉREZ,ESP,32.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Weronika LIZAKOWSKA,POL,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Vera SJÖBERG,SWE,24.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Erin WALLACE,GBR,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Saron BERHE,ETH,18.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Nozomi TANAKA,JPN,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Amina MAATOUG,NED,23.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Lilly NÄGELI,SUI,22.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,Laura NICHOLSON,IRL,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,1.0,María Pía FERNÁNDEZ,URU,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Nelly CHEPCHIRCHIR,KEN,22.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Klaudia KAZIMIERSKA,POL,24.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Salomé AFONSO,POR,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Linden HALL,AUS,34.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Emily MACKAY,USA,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Revee WALCOTT-NOLAN,GBR,31.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Lucia STAFFORD,CAN,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Şilan AYYILDIZ,TUR,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Anne Gine LØVNES,NOR,23.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Marissa DAMINK-VAN DER MEIJDE,NED,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0, POOJA,IND,23.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Wilma NIELSEN,SWE,24.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Bahiya EL,MAR,20.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,2.0,Lodkeo INTHAKOUMMAN,LAO,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Freweyni HAILU,ETH,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Nikki HILTZ,USA,31.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Susan Lokayo EJORE,KEN,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Gabriela DEBUES-STAFFORD,CAN,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Agathe GUILLEMOT,FRA,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Sophie O'SULLIVAN,IRL,24.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Esther GUERRERO,ESP,36.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Joceline WIND,SUI,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Sarah BILLINGS,AUS,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Jolanda KALLABIS,GER,21.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Knight ACIRU,UGA,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Ludovica CAVALLI,ITA,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Adelle TRACEY,JAM,32.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,3.0,Tomoka KIMURA,JPN,31.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Faith KIPYEGON,KEN,32.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Sarah MADELEINE,FRA,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Sarah HEALY,IRL,25.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Marta ZENONI,ITA,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Gabija GALVYDYT Ė,LTU,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Nele GER,GER,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Águeda MARQUÉS,ESP,26.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Laura MUIR,GBR,32.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Vera BERTEMES-HOFFMANN,LUX,29.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Kate CURRENT,CAN,28.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Sofia THØGERSEN,DEN,20.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Micaela LEVAGGI,ARG,27.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Mia BARNETT,SWE,22.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Gresa BAKRAÇI,KOS,30.0,Missing time split
-outdoor,,2025,13 September 2025,29,,women,1500-metres,heats,4.0,Ingeborg ØSTGÅRD,NOR,22.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Beatrice CHEBET,KEN,26.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Nadia BATTOCLETTI,ITA,25.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Gudaf TSEGAY,ETH,29.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Agnes Jebet NGETICH,KEN,25.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Ejgayehu TAYE,ETH,26.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Ririka HIRONAKA,JPN,25.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Joy CHEPTOYEK,UGA,23.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Fotyen TESFAY,ETH,28.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Lauren RYAN,AUS,27.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Megan KEITH,GBR,23.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Calli HAUGER-THACKERY,GBR,33.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Elise CRANNY,USA,29.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Jana VAN LENT,BEL,24.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Emily INFELD,USA,35.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Klara LUKAN,SLO,25.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Daisy JEPKEMEI,KAZ,30.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Isobel BATT-DOYLE,AUS,30.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Taylor ROE,USA,25.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Elisa PALMERO,ITA,26.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Mikuni YADA,JPN,26.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Tsigie GEBRESELAMA,ETH,25.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Francine NIYOMUKUNZI,BDI,26.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Eva DIETERICH,GER,26.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Nubia DE OLIVEIRA SILVA,BRA,23.0,Missing time split
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Janeth CHEPNGETICH,KEN,27.0,Did not finish
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Sarah CHELANGAT,UGA,24.0,Did not finish
-outdoor,,2025,13 September 2025,28,,women,10000-metres,final,1.0,Rebecca CHELANGAT,UGA,24.0,Did not finish
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Narve Gilje NORDÅS,NOR,27.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Josh KERR,GBR,28.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Ethan STRAND,USA,23.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Federico RIVA,ITA,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Stefan NILLESSEN,NED,23.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Tshepo TSHITE,RSA,29.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Azeddine HABZ,FRA,32.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Jochem VERMEULEN,BEL,27.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Pol ORIACH,ESP,23.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Fouad MESSAOUDI,MAR,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Jude THOMAS,AUS,23.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Charles GRETHEN,LUX,33.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Kazuto IIZAWA,JPN,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Kristian Uldbjerg HANSEN,DEN,29.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,1.0,Hugh KENT,GUM,19.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Isaac NADER,POR,26.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Pietro ARESE,ITA,26.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Niels LAROS,NED,20.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Reynold CHERUIYOT,KEN,21.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Ruben VERHEYDEN,BEL,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Foster MALLECK,CAN,24.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Hafid RIZQY,MAR,28.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Elliot GILES,GBR,31.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Paul ANSELMINI,FRA,22.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Adam SPENCER,AUS,24.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Håkon MOE,NOR,19.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Cathal DOYLE,IRL,28.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Heithem CHENITEF,ALG,22.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Ermias GIRMA,ETH,21.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,2.0,Yeshnil KARAN,FIJ,24.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Cole HOCKER,USA,24.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Robert FARKEN,GER,28.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Neil GOURLEY,GBR,31.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Timothy CHERUIYOT,KEN,30.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Adrián BEN,ESP,27.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Raphael PALLITSCH,AUT,36.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Nuno PEREIRA,POR,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Cameron MYERS,AUS,19.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Filip SASÍNEK,CZE,30.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Samuel TANNER,NZL,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Pieter SISK,BEL,26.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Charles PHILIBERT-THIBOUTOT,CAN,35.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Ryan MPHAHLELE,RSA,27.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Diego Javier LACAMOIRE,ARG,27.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,3.0,Filip RAK,POL,23.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Jake WIGHTMAN,GBR,31.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,José Carlos PINTO,POR,28.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Jonah KOECH,USA,29.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Romain MORNET,FRA,28.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Samuel PIHLSTRÖM,SWE,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Andrew COSCORAN,IRL,29.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Anass ESSAYI,MAR,24.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Jakob INGEBRIGTSEN,NOR,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Joao BUSSOTTI,ITA,32.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Carlos SAEZ,ESP,27.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Melese NBERET,ETH,25.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Phanuel Kipkosgei KOECH,KEN,19.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Yervand MKRTCHYAN,ARM,29.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Mukesh PAL,NEP,26.0,Missing time split
-outdoor,,2025,14 September 2025,28,,men,1500-metres,heats,4.0,Kieran LUMB,CAN,27.0,Missing time split
-outdoor,,2025,14 September 2025,30,,women,1500-metres,semi-final,1.0,Dorcus EWOI,KEN,29.0,Incoherent splits
-outdoor,,2025,14 September 2025,30,,women,1500-metres,semi-final,2.0,Marta ZENONI,ITA,27.0,Disqualification
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Jimmy GRESSIER,FRA,28.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Yomif KEJELCHA,ETH,28.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Andreas ALMGREN,SWE,30.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Ishmael Rokitto KIPKURUI,KEN,21.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Nico YOUNG,USA,23.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Selemon BAREGA,ETH,26.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Edwin KURGAT,KEN,29.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Grant FISHER,USA,28.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Thierry NDIKUMWENAYO,ESP,28.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Adriaan WILDSCHUTT,RSA,27.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Graham BLANKS,USA,23.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Berihu AREGAWI,ETH,25.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Dan KIBET,UGA,22.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Dominic Lokinyomo LOBALU,SUI,27.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Egide NTAKARUTIMANA,BDI,28.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Gulveer SINGH,IND,27.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Awet Nftalem KIBRAB,NOR,30.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Oscar CHELIMO,UGA,24.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Efrem GIDEY,IRL,25.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Mebuki SUZUKI,JPN,24.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Célestin NDIKUMANA,BDI,24.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Jun KASAI,JPN,25.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Davor Aaron BIENENFELD,GER,28.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Mohammed AHMED,CAN,35.0,Did not finish
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Benson KIPLANGAT,KEN,22.0,Did not finish
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Merhawi MEBRAHTU,ERI,22.0,Missing time split
-outdoor,,2025,14 September 2025,30,,men,10000-metres,final,1.0,Ignacio VELASQUEZ,CHI,27.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Faith CHEROTICH,KEN,21.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Norah JERUTO,KAZ,30.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Elise THORNER,GBR,25.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Flavie RENOUARD,FRA,25.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Lexy HALLADAY,USA,24.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Olivia GÜRTH,GER,23.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Celestine Jepkosgei BIWOT,KEN,22.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Loice CHEKWEMOI,UGA,19.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Veerle BAKKER,NED,28.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Kinga KRÓLIK,POL,26.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0, ANKITA,IND,24.0,Missing time split
-outdoor,,2025,15 September 2025,28,,women,3000-metres-steeplechase,heats,1.0,Alemnat WALLE,ETH,20.0,Did not finish
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Winfred YAVI,BRN,26.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Marwa BOUZAYANI,TUN,28.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Sembo ALMAYEW,ETH,21.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Gesa Felicitas KRAUSE,GER,33.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Angelina NAPOLEON,USA,21.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Adva COHEN,ISR,29.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Marta SERRANO,ESP,22.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Ilona MONONEN,FIN,22.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Parul CHAUDHARY,IND,30.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Pamela KOSGEI,KEN,21.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Amy CASHIN,AUS,31.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Tatiane Raquel DA SILVA,BRA,35.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,2.0,Sarah TAIT,GBR,24.0,Did not finish
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Peruth CHEMUTAI,UGA,26.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Doris LEMNGOLE,KEN,24.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Lomi MULETA,ETH,24.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Lea MEYER,GER,28.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Kaylee MITCHELL,USA,26.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Miu SAITO,JPN,23.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Alicja KONIECZEK,POL,31.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Grace FETHERSTONHAUGH,CAN,25.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Daisy JEPKEMEI,KAZ,30.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Cara FEAIN-RYAN,AUS,27.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Rihab DHAHRI,TUN,22.0,Missing time split
-outdoor,,2025,15 September 2025,29,,women,3000-metres-steeplechase,heats,3.0,Stella RUTTO,ROU,26.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,1500-metres,semi-final,2.0,Raphael PALLITSCH,AUT,36.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,1500-metres,semi-final,2.0,Foster MALLECK,CAN,24.0,Incoherent splits
-outdoor,,2025,15 September 2025,28,,men,1500-metres,semi-final,2.0,Cole HOCKER,USA,24.0,Disqualification
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Geordie BEAMISH,NZL,29.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Soufiane EL BAKKALI,MAR,30.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Edmund SEREM,KEN,18.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Samuel FIREWU,ETH,21.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Salaheddine BEN,MAR,22.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Lamecha GIRMA,ETH,25.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Nicolas-Marie DARU,FRA,37.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Ryuji MIURA,JPN,24.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Daniel MICHALSKI,USA,30.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Ruben QUERINJEAN,LUX,24.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Ahmed JAZIRI,TUN,28.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Frederik RUPPERT,GER,29.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Jean-Simon DESGAGNÉS,CAN,27.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Getnet WALE,ETH,25.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Niklas BUCHHOLZ,GER,28.0,Missing time split
-outdoor,,2025,15 September 2025,28,,men,3000-metres-steeplechase,final,1.0,Abraham KIBIWOT,KEN,29.0,Did not finish
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Faith KIPYEGON,KEN,32.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Dorcus EWOI,KEN,29.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Jessica HULL,AUS,29.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Nelly CHEPCHIRCHIR,KEN,22.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Nikki HILTZ,USA,31.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Freweyni HAILU,ETH,25.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Klaudia KAZIMIERSKA,POL,24.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Sarah MADELEINE,FRA,27.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Marta PÉREZ,ESP,32.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Sarah HEALY,IRL,25.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Gabriela DEBUES-STAFFORD,CAN,30.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Salomé AFONSO,POR,28.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Sinclaire JOHNSON,USA,27.0,Missing time split
-outdoor,,2025,16 September 2025,28,,women,1500-metres,final,1.0,Nele GER,GER,26.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Faith CHEROTICH,KEN,21.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Winfred YAVI,BRN,26.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Sembo ALMAYEW,ETH,21.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Marwa BOUZAYANI,TUN,28.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Doris LEMNGOLE,KEN,24.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Norah JERUTO,KAZ,30.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Gesa Felicitas KRAUSE,GER,33.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Lomi MULETA,ETH,24.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Angelina NAPOLEON,USA,21.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Kaylee MITCHELL,USA,26.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Elise THORNER,GBR,25.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Lea MEYER,GER,28.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Flavie RENOUARD,FRA,25.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Lexy HALLADAY,USA,24.0,Missing time split
-outdoor,,2025,17 September 2025,31,,women,3000-metres-steeplechase,final,1.0,Peruth CHEMUTAI,UGA,26.0,Did not finish
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Isaac NADER,POR,26.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Jake WIGHTMAN,GBR,31.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Reynold CHERUIYOT,KEN,21.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Timothy CHERUIYOT,KEN,30.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Niels LAROS,NED,20.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Robert FARKEN,GER,28.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Federico RIVA,ITA,25.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Adrián BEN,ESP,27.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Tshepo TSHITE,RSA,29.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Neil GOURLEY,GBR,31.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Samuel PIHLSTRÖM,SWE,25.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Andrew COSCORAN,IRL,29.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Jonah KOECH,USA,29.0,Missing time split
-outdoor,,2025,17 September 2025,31,,men,1500-metres,final,1.0,Josh KERR,GBR,28.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Beatrice CHEBET,KEN,26.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Nadia BATTOCLETTI,ITA,25.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Shelby HOULIHAN,USA,33.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Maureen KOSTER,NED,33.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Nozomi TANAKA,JPN,26.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Fantaye BELAYNEH,ETH,25.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Hannah NUTTALL,GBR,28.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Joy CHEPTOYEK,UGA,23.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Birke HAYLOM,ETH,20.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Elise CRANNY,USA,29.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Elise VANDERELST,BEL,28.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Gabriela DEBUES-STAFFORD,CAN,30.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Wuga HE,CHN,27.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Margaret AKIDOR,KEN,23.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Idaira PRIETO,ESP,28.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Melissa COURTNEY-BRYANT,GBR,32.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Georgia GRIFFITH,AUS,29.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Yuma YAMAMOTO,JPN,25.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Elena BURKARD,GER,34.0,Missing time split
-outdoor,,2025,18 September 2025,31,,women,5000-metres,heats,1.0,Farida ABAROGE,ART,32.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Gudaf TSEGAY,ETH,29.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Faith KIPYEGON,KEN,32.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Rose DAVIES,AUS,26.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Marta GARCÍA,ESP,28.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Medina EISA,ETH,21.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Josette ANDREWS,USA,30.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Linden HALL,AUS,34.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Agnes Jebet NGETICH,KEN,25.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Samiyah HASSAN NOUR,DJI,26.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Sarah LAHTI,SWE,31.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Lea MEYER,GER,28.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Federica DEL BUONO,ITA,31.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Ririka HIRONAKA,JPN,25.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Regan YEE,CAN,30.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Diane VAN ES,NED,26.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Micol MAJORI,ITA,27.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Jana VAN LENT,BEL,24.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Innes FITZGERALD,GBR,19.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Anisleidis OCHOA,CUB,25.0,Missing time split
-outdoor,,2025,18 September 2025,26,,women,5000-metres,heats,2.0,Mariana MACHADO,POR,25.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Isaac KIMELI,BEL,32.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Mathew Kipchumba KIPSANG,KEN,30.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Cole HOCKER,USA,24.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Nico YOUNG,USA,23.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Ky ROBINSON,AUS,24.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Hagos GEBRHIWET,ETH,31.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Mike FOPPEN,NED,29.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Etienne DAGUINOS,FRA,26.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Andreas ALMGREN,SWE,30.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Santiago CATROFE,URU,27.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Dominic Lokinyomo LOBALU,SUI,27.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Narve Gilje NORDÅS,NOR,27.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Keneth KIPROP,UGA,20.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Jacob KROP,KEN,24.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Nagiya MORI,JPN,26.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Florian BREMM,GER,25.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Brian FAY,IRL,27.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Seth O'DONNELL,AUS,24.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Zhusup SULAIMAN UULU,KGZ,26.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Kuma GIRMA,ETH,20.0,Did not finish
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,1.0,Soufiane EL BAKKALI DNS,MAR,30.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Biniam MEHARY,ETH,19.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Jimmy GRESSIER,FRA,28.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Birhanu BALEW,BRN,30.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,George MILLS,GBR,26.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Valentin SOCA,URU,23.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Grant FISHER,USA,28.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Yann SCHRUB,FRA,30.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Jakob INGEBRIGTSEN,NOR,25.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Gulveer SINGH,IND,27.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Darragh MCELHINNEY,IRL,25.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Mohamed ABDILAAHI,GER,26.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Cornelius KEMBOI,KEN,26.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,John HEYMANS,BEL,28.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Thierry NDIKUMWENAYO,ESP,28.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Saymon AMANUEL,ERI,18.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Jack RAYNER,AUS,30.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Eduardo HERRERA,MEX,28.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Harbert KIBET,UGA,20.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Andrew COSCORAN,IRL,29.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Jamal Abdelmaji EISA MOHAMMED,ART,32.0,Missing time split
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Niels LAROS,NED,20.0,Did not finish
-outdoor,,2025,19 September 2025,23,,men,5000-metres,heats,2.0,Luis GRIJALVA,GUA,26.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Beatrice CHEBET,KEN,26.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Faith KIPYEGON,KEN,32.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Nadia BATTOCLETTI,ITA,25.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Shelby HOULIHAN,USA,33.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Gudaf TSEGAY,ETH,29.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Josette ANDREWS,USA,30.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Marta GARCÍA,ESP,28.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Hannah NUTTALL,GBR,28.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Fantaye BELAYNEH,ETH,25.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Rose DAVIES,AUS,26.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Linden HALL,AUS,34.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Nozomi TANAKA,JPN,26.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Medina EISA,ETH,21.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Maureen KOSTER,NED,33.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Agnes Jebet NGETICH,KEN,25.0,Missing time split
-outdoor,,2025,20 September 2025,26,,women,5000-metres,final,1.0,Joy CHEPTOYEK,UGA,23.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Cole HOCKER,USA,24.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Isaac KIMELI,BEL,32.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Jimmy GRESSIER,FRA,28.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Ky ROBINSON,AUS,24.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Biniam MEHARY,ETH,19.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Nico YOUNG,USA,23.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Birhanu BALEW,BRN,30.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Grant FISHER,USA,28.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Yann SCHRUB,FRA,30.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Jakob INGEBRIGTSEN,NOR,25.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Mathew Kipchumba KIPSANG,KEN,30.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Mike FOPPEN,NED,29.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Hagos GEBRHIWET,ETH,31.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Etienne DAGUINOS,FRA,26.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,Valentin SOCA,URU,23.0,Missing time split
-outdoor,,2025,21 September 2025,24,,men,5000-metres,final,1.0,George MILLS,GBR,26.0,Missing time split
+outdoor,,2025,13 September 2025,29,65,men,3000-metres-steeplechase,heats,3.0,Carlos SAN MARTÍN,COL,32.0,Incoherent splits
+outdoor,,2025,13 September 2025,29,65,men,3000-metres-steeplechase,heats,3.0,Tim VAN DE VELDE,BEL,26.0,Incoherent splits
+outdoor,,2025,13 September 2025,29,65,men,3000-metres-steeplechase,heats,3.0,Daniel ARCE,ESP,33.0,Did not finish
+outdoor,,2025,13 September 2025,28,70,women,10000-metres,final,1.0,Tsigie GEBRESELAMA,ETH,25.0,Missing time split
+outdoor,,2025,13 September 2025,28,70,women,10000-metres,final,1.0,Janeth CHEPNGETICH,KEN,27.0,Did not finish
+outdoor,,2025,13 September 2025,28,70,women,10000-metres,final,1.0,Sarah CHELANGAT,UGA,24.0,Did not finish
+outdoor,,2025,13 September 2025,28,70,women,10000-metres,final,1.0,Rebecca CHELANGAT,UGA,24.0,Did not finish
+outdoor,,2025,14 September 2025,28,68,men,1500-metres,heats,3.0,Diego Javier LACAMOIRE,ARG,27.0,Incoherent splits
+outdoor,,2025,14 September 2025,28,68,men,1500-metres,heats,3.0,Filip RAK,POL,23.0,Incoherent splits
+outdoor,,2025,14 September 2025,28,68,men,1500-metres,heats,4.0,Kieran LUMB,CAN,27.0,Incoherent splits
+outdoor,,2025,14 September 2025,30,68,women,1500-metres,semi-final,1.0,Dorcus EWOI,KEN,29.0,Incoherent splits
+outdoor,,2025,14 September 2025,30,68,women,1500-metres,semi-final,2.0,Marta ZENONI,ITA,27.0,Disqualification
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Jimmy GRESSIER,FRA,28.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Yomif KEJELCHA,ETH,28.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Andreas ALMGREN,SWE,30.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Ishmael Rokitto KIPKURUI,KEN,21.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Nico YOUNG,USA,23.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Selemon BAREGA,ETH,26.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Edwin KURGAT,KEN,29.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Grant FISHER,USA,28.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Thierry NDIKUMWENAYO,ESP,28.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Adriaan WILDSCHUTT,RSA,27.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Graham BLANKS,USA,23.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Berihu AREGAWI,ETH,25.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Dan KIBET,UGA,22.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Dominic Lokinyomo LOBALU,SUI,27.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Egide NTAKARUTIMANA,BDI,28.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Gulveer SINGH,IND,27.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Awet Nftalem KIBRAB,NOR,30.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Oscar CHELIMO,UGA,24.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Efrem GIDEY,IRL,25.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Mebuki SUZUKI,JPN,24.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Célestin NDIKUMANA,BDI,24.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Jun KASAI,JPN,25.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Davor Aaron BIENENFELD,GER,28.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Mohammed AHMED,CAN,35.0,Did not finish
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Benson KIPLANGAT,KEN,22.0,Did not finish
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Merhawi MEBRAHTU,ERI,22.0,Missing time split
+outdoor,,2025,14 September 2025,30,68,men,10000-metres,final,1.0,Ignacio VELASQUEZ,CHI,27.0,Missing time split
+outdoor,,2025,15 September 2025,28,54,women,3000-metres-steeplechase,heats,1.0,Alemnat WALLE,ETH,20.0,Did not finish
+outdoor,,2025,15 September 2025,29,52,women,3000-metres-steeplechase,heats,2.0,Sarah TAIT,GBR,24.0,Did not finish
+outdoor,,2025,15 September 2025,28,73,men,1500-metres,semi-final,2.0,Raphael PALLITSCH,AUT,36.0,Missing time split
+outdoor,,2025,15 September 2025,28,73,men,1500-metres,semi-final,2.0,Foster MALLECK,CAN,24.0,Incoherent splits
+outdoor,,2025,15 September 2025,28,73,men,1500-metres,semi-final,2.0,Cole HOCKER,USA,24.0,Disqualification
+outdoor,,2025,15 September 2025,28,73,men,3000-metres-steeplechase,final,1.0,Abraham KIBIWOT,KEN,29.0,Did not finish
+outdoor,,2025,17 September 2025,31,62,women,3000-metres-steeplechase,final,1.0,Gesa Felicitas KRAUSE,GER,33.0,Missing time split
+outdoor,,2025,17 September 2025,31,62,women,3000-metres-steeplechase,final,1.0,Flavie RENOUARD,FRA,25.0,Missing time split
+outdoor,,2025,17 September 2025,31,62,women,3000-metres-steeplechase,final,1.0,Peruth CHEMUTAI,UGA,26.0,Did not finish
+outdoor,,2025,17 September 2025,31,62,men,1500-metres,final,1.0,Josh KERR,GBR,28.0,Incoherent splits
+outdoor,,2025,18 September 2025,26,75,women,5000-metres,heats,2.0,Sarah LAHTI,SWE,31.0,Missing time split
+outdoor,,2025,18 September 2025,25,74,women,800-metres,heats,6.0,Charné DU,RSA,24.0,Did not finish
+outdoor,,2025,18 September 2025,25,74,women,800-metres,heats,7.0,Prudence SEKGODISO,RSA,24.0,Did not finish
+outdoor,,2025,18 September 2025,25,74,men,800-metres,semi-final,2.0,Donavan BRAZIER,USA,28.0,Missing time split
+outdoor,,2025,19 September 2025,23,67,men,5000-metres,heats,1.0,Kuma GIRMA,ETH,20.0,Did not finish
+outdoor,,2025,19 September 2025,23,67,men,5000-metres,heats,1.0,Soufiane EL BAKKALI DNS,MAR,30.0,Missing time split
+outdoor,,2025,19 September 2025,23,67,men,5000-metres,heats,2.0,Niels LAROS,NED,20.0,Did not finish
+outdoor,,2025,19 September 2025,23,67,men,5000-metres,heats,2.0,Luis GRIJALVA,GUA,26.0,Missing time split
 outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Lamecha GIRMA,ETH,23.0,Missing time split
 outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,George BEAMISH,NZL,27.0,Missing time split
 outdoor,Budapest (HUN),2023,19 August 2023,22,88,men,3000-metres-steeplechase,heats,3.0,Leonard Kipkemoi BETT,KEN,23.0,Missing time split
@@ -813,22 +447,22 @@ outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Aron KIF
 outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Thierry NDIKUMWENAYO,BDI,23.0,Did not finish
 outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Julien WANDERS,SUI,24.0,Did not finish
 outdoor,Doha (QAT),2019,6 October 2019,24,64,men,10000-metres,final,1.0,Hassan CHANI,BRN,31.0,Did not finish
-indoor,,2025,21 March 2025,,,women,800-metres,heats,1.0,Habitam ALEMU,ETH,28.0,Incoherent splits
-indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Jakub DUDYCHA,CZE,20.0,Missing time split
-indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Alex Ngeno KIPNGETICH,KEN,25.0,Missing time split
-indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Patryk SIERADZKI,POL,26.0,Missing time split
-indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Moad ZAHAFI,MAR,27.0,Missing time split
-indoor,,2025,21 March 2025,,,men,800-metres,heats,1.0,Guilherme ORENHAS,BRA,27.0,Did not finish
-indoor,,2025,22 March 2025,,,women,3000-metres,final,1.0,Metres Women Final (CHN),(CHN),,Missing time split
-indoor,,2025,22 March 2025,,,men,3000-metres,final,1.0,Metres Men Final (CHN),(CHN),,Missing time split
-indoor,FinalGlasgow (GBR),2024,1 March 2024,,,women,1500-metres,heats,2.0,Claudia Mihaela BOBOCEA,ROU,32.0,Did not finish
-indoor,FinalGlasgow (GBR),2024,1 March 2024,,,men,1500-metres,heats,3.0,Biniam MEHARY,ETH,17.0,Incoherent splits
-indoor,FinalGlasgow (GBR),2024,1 March 2024,,,men,1500-metres,heats,3.0,Eduardo HERRERA,MEX,26.0,Incoherent splits
-indoor,FinalGlasgow (GBR),2024,1 March 2024,,,men,1500-metres,heats,4.0,Callum ELSON,GBR,25.0,Did not finish
-indoor,FinalGlasgow (GBR),2024,2 March 2024,,,men,800-metres,semi-final,2.0,Mohamed Ali GOUANED,ALG,22.0,Did not finish
-indoor,Glasgow (GBR),2024,2 March 2024,,,women,3000-metres,final,1.0,Emeline IMANIZABAYO,RWA,28.0,Missing time split
-indoor,Glasgow (GBR),2024,3 March 2024,,,men,800-metres,final,1.0,Benjamin ROBERT,FRA,26.0,Disqualification
-indoor,Glasgow (GBR),2024,3 March 2024,,,men,1500-metres,final,1.0,Vincent Kibet KETER,KEN,22.0,Missing time split
+indoor,,2025,21 March 2025,,1,women,800-metres,heats,1.0,Habitam ALEMU,ETH,28.0,Incoherent splits
+indoor,,2025,21 March 2025,,5,men,800-metres,heats,1.0,Jakub DUDYCHA,CZE,20.0,Missing time split
+indoor,,2025,21 March 2025,,5,men,800-metres,heats,1.0,Alex Ngeno KIPNGETICH,KEN,25.0,Missing time split
+indoor,,2025,21 March 2025,,5,men,800-metres,heats,1.0,Patryk SIERADZKI,POL,26.0,Missing time split
+indoor,,2025,21 March 2025,,5,men,800-metres,heats,1.0,Moad ZAHAFI,MAR,27.0,Missing time split
+indoor,,2025,21 March 2025,,5,men,800-metres,heats,1.0,Guilherme ORENHAS,BRA,27.0,Did not finish
+indoor,,2025,22 March 2025,,19:15,women,3000-metres,final,1.0,Metres Women Final (CHN),(CHN),,Missing time split
+indoor,,2025,22 March 2025,,19:33,men,3000-metres,final,1.0,Metres Men Final (CHN),(CHN),,Missing time split
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,2,women,1500-metres,heats,2.0,Claudia Mihaela BOBOCEA,ROU,32.0,Did not finish
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,3,men,1500-metres,heats,3.0,Biniam MEHARY,ETH,17.0,Incoherent splits
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,3,men,1500-metres,heats,3.0,Eduardo HERRERA,MEX,26.0,Incoherent splits
+indoor,FinalGlasgow (GBR),2024,1 March 2024,,4,men,1500-metres,heats,4.0,Callum ELSON,GBR,25.0,Did not finish
+indoor,FinalGlasgow (GBR),2024,2 March 2024,,2,men,800-metres,semi-final,2.0,Mohamed Ali GOUANED,ALG,22.0,Did not finish
+indoor,Glasgow (GBR),2024,2 March 2024,,20:17,women,3000-metres,final,1.0,Emeline IMANIZABAYO,RWA,28.0,Missing time split
+indoor,Glasgow (GBR),2024,3 March 2024,,21:10,men,800-metres,final,1.0,Benjamin ROBERT,FRA,26.0,Disqualification
+indoor,Glasgow (GBR),2024,3 March 2024,,21:30,men,1500-metres,final,1.0,Vincent Kibet KETER,KEN,22.0,Missing time split
 indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Gudaf TSEGAY,ETH,25.0,Missing time split
 indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Lucia STAFFORD,CAN,24.0,Missing time split
 indoor,Belgrade (SRB),2022,18 March 2022,,,women,1500-metres,heats,3.0,Sara KUIVISTO,FIN,31.0,Missing time split

@@ -79,8 +79,8 @@ def get_race_dist(race_description):
   # We iterate over the values of the
   for i in race_description :
     for j in i.split(" "):
-      if ((j.replace(",", "").replace(".", "") in mid_dist_and_dist_races) and (i.split(" ") != 'm')):
-        race_dist = int(j.replace(",", "").replace(".", ""))
+      if ((j.replace(",", "").replace(".", "").replace("m", "") in mid_dist_and_dist_races) and (i.split(" ") != 'm')):
+        race_dist = int(j.replace(",", "").replace(".", "").replace("m", ""))
         break
     if race_dist != "":
       break
@@ -129,8 +129,8 @@ def get_race_date_temperature_humidity(race_description):
     race_temp = ''
 
   # Race humidity
-  race_humidity_list = race_spec_info.split(" % ")
-  if len(race_humidity_list) > 1:
+  race_humidity_list = race_spec_info.split(" %")
+  if len(race_humidity_list) >= 1:
     race_humidity = race_humidity_list[0].split(" ")[-1]
   else:
     race_humidity = ""
